@@ -8,6 +8,9 @@ Here is a ouput demo video:
 
 https://github.com/user-attachments/assets/569f67db-9c80-479f-bf3b-171681c675e5
 
+<video src='[your_project/assets/28913157/bc4e9639-43a5-4937-bb64-ffa0c9f64a21](https://github.com/user-attachments/assets/569f67db-9c80-479f-bf3b-171681c675e5)' />
+
+
 
 [![Watch the video]](output_video_converted.mp4)
 
