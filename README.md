@@ -14,5 +14,8 @@ Click the image above to watch the video.
 
 ![Sample Output](fruit_output_video_sample.png)
 
+[![Watch the video](fruit_output_video_sample.png)](output_video_converted.mp4)
+
+
 
 
